@@ -1,0 +1,52 @@
+.navbar .navbar-brand img {
+    height: 60px;
+    width: 80px;
+    margin-left: 3px;
+    margin-top: -5px;
+}
+
+.jumbotron {
+    background-image: url(img/indonesia.jpg);
+    background-size: cover;
+    height: 450px;
+    position: relative;
+}
+
+
+.jumbotron .container {
+    z-index: 1;
+    position: relative;
+    top: 106px;
+}
+
+.jumbotron h1 {
+    font-weight: bold;
+}
+
+/* profile */
+
+.profil h2 {
+    text-align: center;
+}
+
+.profil .sejarah h3 {
+    text-align: center;
+}
+
+.profil .visi-misi h3 {
+    text-align: center;
+}
+
+.carousel {
+    padding: 20px;
+    width: 800px;
+}
+
+.galeri h2 {
+    text-align: center;
+}
+
+.footer p {
+    text-align: center;
+}
+
